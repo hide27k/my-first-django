@@ -1,0 +1,2 @@
+# Django_document
+Django Documentation に基づいて作成した投票webアプリケーション
